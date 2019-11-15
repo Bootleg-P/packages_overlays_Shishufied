@@ -150,7 +150,17 @@ PRODUCT_PACKAGES += \
     QSTileOxygen \
     QSTileTriangles
 
+# Switch styler
+PRODUCT_PACKAGES += \
+    MD2Switch \
+    OnePlusSwitch \
+    StockSwitch \
+    Contained \
+    Retro \
+    Stockish \
+    Narrow
+
 # DO NOT MERGE - 
 PRODUCT_PACKAGES += \
     ShishuTestOv \
-    ShishuTestOv2 
+    ShishuTestOv2
