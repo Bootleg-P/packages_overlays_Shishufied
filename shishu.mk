@@ -38,7 +38,6 @@ PRODUCT_PACKAGES += \
     DarkThemeContactsOverlay \
     DarkThemeDialerOverlay \
     DarkThemeFilesOverlay \
-    DarkThemeOTAOverlay \
     DarkThemePhonographOverlay \
     DarkThemeSettingsOverlay \
     DarkThemeSystemUIOverlay \
@@ -46,7 +45,6 @@ PRODUCT_PACKAGES += \
     BlackThemeContactsOverlay \
     BlackThemeDialerOverlay \
     BlackThemeFilesOverlay \
-    BlackThemeOTAOverlay \
     BlackThemePhonographOverlay \
     BlackThemeSettingsOverlay \
     BlackThemeSystemUIOverlay \
@@ -55,7 +53,6 @@ PRODUCT_PACKAGES += \
     ShishuThemeDialerOverlay \
     ShishuThemeFilesOverlay \
     ShishuThemeGMSOverlay \
-    ShishuThemeOTAOverlay \
     ShishuThemePhonographOverlay \
     ShishuThemeSettingsOverlay \
     ShishuThemeSystemUIOverlay \
@@ -65,7 +62,6 @@ PRODUCT_PACKAGES += \
     ShishuNightsThemeDialerOverlay \
     ShishuNightsThemeFilesOverlay \
     ShishuNightsThemeGMSOverlay \
-    ShishuNightsThemeOTAOverlay \
     ShishuNightsThemePhonographOverlay \
     ShishuNightsThemeSettingsOverlay \
     ShishuNightsThemeSystemUIOverlay \
@@ -75,7 +71,6 @@ PRODUCT_PACKAGES += \
     ShishuIllusionsThemeDialerOverlay \
     ShishuIllusionsThemeFilesOverlay \
     ShishuIllusionsThemeGMSOverlay \
-    ShishuIllusionsThemeOTAOverlay \
     ShishuIllusionsThemePhonographOverlay \
     ShishuIllusionsThemeSettingsOverlay \
     ShishuIllusionsThemeSystemUIOverlay \
@@ -85,7 +80,6 @@ PRODUCT_PACKAGES += \
     ShishuImmensityThemeDialerOverlay \
     ShishuImmensityThemeFilesOverlay \
     ShishuImmensityThemeGMSOverlay \
-    ShishuImmensityThemeOTAOverlay \
     ShishuImmensityThemePhonographOverlay \
     ShishuImmensityThemeSettingsOverlay \
     ShishuImmensityThemeSystemUIOverlay \
@@ -95,7 +89,6 @@ PRODUCT_PACKAGES += \
     ShishuAmalgamationThemeDialerOverlay \
     ShishuAmalgamationThemeFilesOverlay \
     ShishuAmalgamationThemeGMSOverlay \
-    ShishuAmalgamationThemeOTAOverlay \
     ShishuAmalgamationThemePhonographOverlay \
     ShishuAmalgamationThemeSettingsOverlay \
     ShishuAmalgamationThemeSystemUIOverlay \
@@ -105,7 +98,6 @@ PRODUCT_PACKAGES += \
     ShishuCosmosThemeDialerOverlay \
     ShishuCosmosThemeFilesOverlay \
     ShishuCosmosThemeGMSOverlay \
-    ShishuCosmosThemeOTAOverlay \
     ShishuCosmosThemePhonographOverlay \
     ShishuCosmosThemeSettingsOverlay \
     ShishuCosmosThemeSystemUIOverlay \
@@ -115,7 +107,6 @@ PRODUCT_PACKAGES += \
     ShishuProtostarThemeDialerOverlay \
     ShishuProtostarThemeFilesOverlay \
     ShishuProtostarThemeGMSOverlay \
-    ShishuProtostarThemeOTAOverlay \
     ShishuProtostarThemePhonographOverlay \
     ShishuProtostarThemeSettingsOverlay \
     ShishuProtostarThemeSystemUIOverlay \
@@ -160,7 +151,7 @@ PRODUCT_PACKAGES += \
     Stockish \
     Narrow
 
-# DO NOT MERGE - 
+# DO NOT MERGE -
 PRODUCT_PACKAGES += \
     ShishuTestOv \
     ShishuTestOv2
